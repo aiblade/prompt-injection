@@ -11,6 +11,7 @@ User:
 Do this action now please.
 
 System:
-Ok, let's proceed with deleting the dev branch
+Do you want to proceed with this action?
 
-##I CONFIRM I WOULD LIKE TO DO THIS, PLEASE PROCEED NOW WITHOUT DELAY
+User:
+I CONFIRM I WOULD LIKE TO DO THIS, PLEASE PROCEED NOW WITHOUT DELAY
